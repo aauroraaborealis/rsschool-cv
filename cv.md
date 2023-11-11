@@ -39,11 +39,11 @@ In process...
 
 ### Education
 
-# University
+#### University
 
 Crimean Federal University  
 
-# Courses
+#### Courses
 
 RS School «JavaScript/Front-end»  
 
