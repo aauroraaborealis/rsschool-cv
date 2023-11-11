@@ -22,3 +22,32 @@ I excel in problem-solving and have a keen eye for detail. My dedication and str
      + Basic JavaScript
  * AR
      + Meta Spark Studio
+
+### Code examples
+
+```
+
+function multiply(a, b){
+  a * b
+}
+
+```
+
+### Work Experience
+
+In process...
+
+### Education
+
+# University
+
+Crimean Federal University  
+
+# Courses
+
+RS School «JavaScript/Front-end»  
+
+### English Language
+
+Intermediate (B1)
+
